@@ -1,1 +1,1 @@
-{"id":"fa48696538189aa794cb2dc1e50b88a8","fullName":"cypress/e2e/1-getting-started/todo.cy.js#example to-do app with a checked task can delete all completed tasks","name":"can delete all completed tasks","status":"passed","testResultsByEnv":{"default":"fcd7d70fb0fde3005ad91af458645378"}}
+{"id":"fa48696538189aa794cb2dc1e50b88a8","fullName":"cypress/e2e/1-getting-started/todo.cy.js#example to-do app with a checked task can delete all completed tasks","name":"can delete all completed tasks","status":"passed","testResultsByEnv":{"default":"9c13317058cdd9ac18ffd3c6e618f7ae"}}

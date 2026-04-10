@@ -1,1 +1,1 @@
-{"id":"e79183bbd8396dc7244295092d9fce95","fullName":"cypress/e2e/2-advanced-examples/cookies.cy.js#Cookies cy.clearCookie() - clear a browser cookie","name":"cy.clearCookie() - clear a browser cookie","status":"passed","testResultsByEnv":{"default":"b800417bf4532e7848f9ed65a0301cb4"}}
+{"id":"e79183bbd8396dc7244295092d9fce95","fullName":"cypress/e2e/2-advanced-examples/cookies.cy.js#Cookies cy.clearCookie() - clear a browser cookie","name":"cy.clearCookie() - clear a browser cookie","status":"passed","testResultsByEnv":{"default":"b0db73f3d5585d5aa7a0263b64992879"}}
