@@ -1,1 +1,1 @@
-{"id":"9ca8d141d3032311990fd4214fcaca71","fullName":"cypress/e2e/2-advanced-examples/waiting.cy.js#Waiting cy.wait() - wait for a specific route","name":"cy.wait() - wait for a specific route","status":"passed","testResultsByEnv":{"default":"6b47919737bb5f0700d4f04e4bd094bd"}}
+{"id":"9ca8d141d3032311990fd4214fcaca71","fullName":"cypress/e2e/2-advanced-examples/waiting.cy.js#Waiting cy.wait() - wait for a specific route","name":"cy.wait() - wait for a specific route","status":"passed","testResultsByEnv":{"default":"5bcf3487f591da201fd9c9d760816b1e"}}
