@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-    nodejs 'nodejs'
+        nodejs 'nodejs'
     }
 
     stages {
@@ -13,7 +13,7 @@ pipeline {
             }
         }
 
-                stage('Execução dos testes') {
+        stage('Execução dos testes') {
             steps {
                 echo 'Executando os testes...'
                 bat 'npm test'
@@ -29,6 +29,4 @@ pipeline {
             echo 'Falha na execução do pipeline'
         }
     }
-
-
 }
