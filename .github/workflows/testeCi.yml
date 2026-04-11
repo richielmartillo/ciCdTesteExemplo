@@ -21,9 +21,15 @@ jobs:
     - name: Instalar Dependencias
       run: npm ci
 
-    - name: Executar testes  
-      run: npm test
+    - name: Executar testes Cypress
+      run: npx cypress run
    
+    - name: Instalar Java
+      uses: actions/setup-java@v4
+      with:
+       distribution: 'temurin'
+       java-version: '21'
+
     - name: Gerar relatório Allure
       run: npm run report:generate
     
