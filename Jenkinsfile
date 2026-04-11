@@ -8,6 +8,7 @@ pipeline {
     stages {
         stage('Instalação das dependencias') {
             steps {
+                bat 'chcp 65001'
                 bat 'npm install'
             }
         }
